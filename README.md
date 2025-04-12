@@ -58,6 +58,9 @@ pip install numpy==1.19.0
 Please refer to mmfewshot's [detection data preparation](https://github.com/open-mmlab/mmfewshot/blob/main/tools/data/README.md).
 ```
 
+Note that: 
+You can download our prepared [util_mm](https://github.com/ChaofeiQI/AML/releases/tag/release/util_mm.zip) and [data] (https://github.com/ChaofeiQI/AML/releases/tag/release/data.zip)
+
 ## 3.Meta-Base-training, Meta-Fine-tuning and Meta-testing
 
 * **Meta-Base Training**
