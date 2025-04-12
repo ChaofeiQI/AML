@@ -1,4 +1,4 @@
-# Copyright (c) OpenMMLab. All rights reserved.
+# Copyright (c) HIT. All rights reserved.
 from typing import Tuple
 from mmcv.cnn import build_conv_layer
 from mmdet.models.builder import BACKBONES
