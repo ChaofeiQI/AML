@@ -59,7 +59,7 @@ Please refer to mmfewshot's [detection data preparation](https://github.com/open
 ```
 
 Note that: 
-You can download our prepared [util_mm](https://github.com/ChaofeiQI/AML/releases/tag/release/util_mm.zip) and [data](https://github.com/ChaofeiQI/AML/releases/tag/release/data.zip)
+You can download our prepared [util_mm](https://github.com/ChaofeiQI/AML/releases/tag/release/util_mm.zip) and [data](https://github.com/ChaofeiQI/AML/releases/tag/release/data.zip), and then unzip them into the project.
 
 ## 3.Meta-Base-training, Meta-Fine-tuning and Meta-testing
 
