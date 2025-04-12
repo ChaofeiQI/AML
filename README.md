@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Python-%3E%3Dv3.8-yellowgreen)
 
 This package includes our codes for implementing "Adversarial Meta-Learning for Few-Shot Object Detection". 
-(First Release Date: 2025-04-12)
+(First Release Date: 2025-04-13)
 
 ## 1.Introduction
 
