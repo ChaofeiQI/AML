@@ -11,14 +11,6 @@ This package includes our codes for implementing "Adversarial Meta-Learning for 
 (First Release Date: 2025-04-13)
 
 ## 1.Introduction
-
-*Conventional high-efficiency object detection relies on numerous annotated samples, while few-shot object detection (FSOD) suffers from a shortage of trainable samples, increasing the task complexity.
-Meta-learning persists as the primary solution, which commences with the construction of one meta-detector and elevates its meta-learning ability and generalization through episodic meta-training.
-Current meta-methods focuses on better feature extraction from annotated samples and constructing superior meta-detectors. 
-In this paper, we introduce a novel FSOD framework, termed Adversarial Meta-Learning (AML). To begin with, we propose a masked meta-backbone with Non-RoI masking, MaskResNet. This design is specifically crafted to concentrate on extracting the primary features within the regions of interest (RoI).
-To address the overfitting challenge arising from MaskResNet’s emphasis on the local feature distribution, we further put forward two adversarial autoencoders.
-Specifically, we leverage the gaussian noise and the random mask to augment feature diversity, generate latent features with an encoder, and reconstruct features with a decoder. Another discriminator differentiates latent data (fake) from random gaussian features (real). Adversarial learning between the real and fake features boosts the autoencoder's generation and the discriminator's discrimination abilities. 
-Experiments on the PASCAL VOC and COCO benchmarks clearly prove that AML not only outshines similar meta-learning FSOD methods but also sets a remarkable state-of-the-art standard.*
 <p align="center"><img width="95%" src="assets/AML.PNG" /></p>
 
 
